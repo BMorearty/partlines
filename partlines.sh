@@ -22,6 +22,8 @@
 #             Neither should this line...
 #             Nor this one..._
 #
+# COMPARE:  If you just run ./partlines, instead of running docker build, the output looks correct.
+#
 
 echo -n This line should not be erased... 
 sleep 1
