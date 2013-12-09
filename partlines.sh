@@ -34,3 +34,4 @@ sleep 1
 echo
 
 echo -n Nor this one... 
+echo
